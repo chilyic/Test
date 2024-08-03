@@ -303,6 +303,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 22
+<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &235948779
 GameObject:
@@ -352,6 +353,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 28
+=======
+>>>>>>> parent of a81f17d (Merge pull request #1 from chilyic/second_branch)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &238813349
 PrefabInstance:
